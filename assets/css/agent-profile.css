@@ -1,0 +1,16 @@
+@media (min-width: 767px) {
+    .navbar-dark .nav li a, .navbar-light .nav li a{
+        color: #3e444d;
+    }
+
+    .navbar-dark .navbar-brand .logo img, .navbar-light .navbar-brand .logo img{
+        max-height: 50px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .navbar-dark .navbar-brand .logo img, .navbar-light .navbar-brand .logo img{
+        max-height: 30px;
+    }
+}

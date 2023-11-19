@@ -1,0 +1,144 @@
+@font-face {
+    font-family: "Dotties Vanilla Black";
+    src: url("DottiesVanilla-Black.woff2");
+    font-weight: bolder;
+    font-style: bolder;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Black Italic";
+    src: url("DottiesVanilla-BlackItalic.woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Bold";
+    src: url("DottiesVanilla-Bold.woff2");
+    font-weight: bold;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Bold Italic";
+    src: url("DottiesVanilla-BlackItalic.woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Extra Bold";
+    src: url("DottiesVanilla-ExtraBold.woff2");
+    font-weight: bolder;
+    font-style: bolder;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Extra Bold Italic";
+    src: url("DottiesVanilla-ExtraBoldItalic.woff2");
+    font-weight: bolder;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Extra Light";
+    src: url("DottiesVanilla-ExtraLight.woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Extra Light Italic";
+    src: url("DottiesVanilla-ExtraLightItalic.woff2");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Heavy";
+    src: url("DottiesVanilla-Heavy.woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Heavy Italic";
+    src: url("DottiesVanilla-HeavyItalic.woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Light";
+    src: url("DottiesVanilla-Light.woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Light Italic";
+    src: url("DottiesVanilla-LightItalic.woff2");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Medium";
+    src: url("DottiesVanilla-Medium.woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Medium Italic";
+    src: url("DottiesVanilla-MediumItalic.woff2");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Regular";
+    src: url("DottiesVanilla-Regular.woff2"); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Regular Italic";
+    src: url("DottiesVanilla-RegularItalic.woff2") ;
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Thin";
+    src: url("DottiesVanilla-Thin.woff2") ;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Thin Italic";
+    src: url("DottiesVanilla-ThinItalic.woff2") ;
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Ultra";
+    src: url("DottiesVanilla-Ultra.woff2") ;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dotties Vanilla Ultra Italic";
+    src: url("DottiesVanilla-UltraItalic.woff2") ;
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
+
+

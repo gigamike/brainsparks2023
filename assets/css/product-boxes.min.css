@@ -1,0 +1,113 @@
+.uppercase {
+  text-transform: uppercase;
+}
+.selected-pack .product {
+  background-color: #5bc1ff;
+}
+
+.product .package-price {
+  font-size: 100px;
+  font-weight: 700;
+}
+
+.product .permonth {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.product .package-name {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.product .cursymbol {
+  margin-right: -10px;
+}
+.product-container {
+  font-weight: 400 !important;
+  margin-top: -2px;
+  border-radius: 20px;
+  box-shadow: none !important;
+}
+div[data-type="connections"] {
+  border: 1px solid #136dbc;
+  color: #136dbc;
+}
+
+div[data-type="connectionsplus"] {
+  border: 3px solid #8ac253;
+  color: #8ac253;
+}
+.product-container .package-price {
+  line-height: 1em;
+}
+.product-container .currency-symbol {
+  margin-right: -20px;
+}
+.product-container .description {
+  color: #666;
+  padding: 0px 1.3em;
+  font-weight: 400;
+  line-height: 1.7em;
+  font-size: 14px;
+  min-height: 120px;
+}
+.product-container a {
+  color: white;
+  padding: 10px 50px;
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 700;
+  box-shadow: none !important;
+}
+
+.product-container[data-type="connections"] a {
+  background-color: #136dbc;
+  border: 1px solid #136dbc;
+}
+
+.product-container[data-type="connectionsplus"] a {
+  background-color: #8ac253;
+  border: 1px solid #8ac253;
+}
+
+.ribbon-wrapper {
+  position: relative;
+  top: -25px;
+  z-index: 3;
+  margin-bottom: -25px;
+}
+
+.ribbon-wrapper .ribbon {
+  text-align: center;
+  width: 150px;
+  margin: auto auto;
+
+  padding: 3px 15px;
+  font-weight: 700;
+}
+
+.product-container[data-type="connections"] .ribbon {
+  background-color: #136dbc;
+  color: #fff;
+}
+
+.product-container[data-type="connectionsplus"] .ribbon {
+  background-color: #8ac253;
+  color: #fff;
+}
+
+/* .ribbon-wrapper .ribbon {
+  font: bold 15px sans-serif;
+  color: #333;
+  text-align: center;
+
+  position: relative;
+  padding: 7px 0;
+  top: 15px;
+  left: -30px;
+  width: 120px;
+  background-color: #ebb134;
+  color: #fff;
+} */

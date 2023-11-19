@@ -1,0 +1,28 @@
+{
+	"description": "The CodeIgniter framework",
+    "name": "codeigniter/framework",
+    "type": "project",
+    "homepage": "https://codeigniter.com",
+    "license": "MIT",
+    "support":
+    {
+        "forum": "http://forum.codeigniter.com/",
+        "wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+        "irc": "irc://irc.freenode.net/codeigniter",
+        "source": "https://github.com/bcit-ci/CodeIgniter"
+    },
+    "require":
+    {
+        "php": ">=7.4",
+		"aws/aws-sdk-php": "^3.286",
+		"google/apiclient": "^2.12.1",
+		"pusher/pusher-php-server": "^7.0",
+		"pusher/pusher-push-notifications": "^1.1",
+		"dompdf/dompdf": "^2.0",
+		"orhanerday/open-ai": "^4.9"
+    },
+    "config":
+    {
+        "vendor-dir": "application/vendor"
+    }
+}
