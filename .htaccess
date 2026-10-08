@@ -1,0 +1,20 @@
+RewriteEngine on
+
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^.*$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond $1 !^(index\.php|robots\.txt) [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+
+#git
+RewriteRule ^(.*/)?\.git+ - [R=404,L]
+
+#installer
+RewriteRule ^(.*/)?\xinstall+ - [R=404,L]
+
+<FilesMatch "composer\.json|license\.txt|readme\.rst|\.profile">
+  Order allow,deny
+  Deny from all
+</FilesMatch>

@@ -39,3 +39,4 @@
 .php_cs
 .php-cs-fixer.cache
 
+/application/config/client_secrets.json
